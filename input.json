@@ -1,0 +1,13 @@
+{
+  "content": [
+    {
+      "label": "ana",
+      "password": "12345"
+    },
+    {
+      "label": "pedro",
+      "password": "12345"
+    }
+  ],
+  "secret": ""
+}
